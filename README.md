@@ -9,12 +9,6 @@
 
 ---
 
-## 🌟 Live Demo
-
-🔗 [Click here to view the project](https://your-live-link-here.com)
-
----
-
 ## 📸 Screenshots
 
 | Home Page | Book List | Issue Book |
